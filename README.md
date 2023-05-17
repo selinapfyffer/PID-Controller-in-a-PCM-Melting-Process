@@ -10,7 +10,7 @@ for more information: https://seasoncell.ch/
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selinapfyffer/dm4bm-pcm_melting/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selinapfyffer/PID-Controller-in-a-PCM-Melting-Process/HEAD)
 
 # Written report
 The report will be written in *Jupyter* notebook, posted on *GitHub.com* and liked to *MyBinder.org*.
