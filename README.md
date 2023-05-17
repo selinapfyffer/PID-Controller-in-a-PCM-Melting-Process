@@ -10,7 +10,7 @@ for more information: https://seasoncell.ch/
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selinapfyffer/PID-Controller-in-a-PCM-Melting-Process/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selinapfyffer/PID-Controller-in-a-PCM-Melting-Process/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fselinapfyffer%2FPID-Controller-in-a-PCM-Melting-Process%2Fblob%2Fmain%2FImplementation_of_a_PID_Controller.ipynb)
 
 # Written report
 The report will be written in *Jupyter* notebook, posted on *GitHub.com* and liked to *MyBinder.org*.
