@@ -8,9 +8,7 @@ for more information: https://seasoncell.ch/
 ![zyklus](https://user-images.githubusercontent.com/90027713/204542465-0dc1ef17-8bbe-499c-9371-9ef3072c129b.PNG)
 > Figure: Integration of the thermal energy storage in a building. The tank is filled in summer with lowcost surplus energy. In winter the energy is discharged in a costefficient way with a smart controller.
 
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selinapfyffer/PID-Controller-in-a-PCM-Melting-Process/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fselinapfyffer%2FPID-Controller-in-a-PCM-Melting-Process%2Fblob%2Fmain%2FImplementation_of_a_PID_Controller.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selinapfyffer/PID-Controller-in-a-PCM-Melting-Process/HEAD)
 
 # Written report
 The report will be written in *Jupyter* notebook, posted on *GitHub.com* and liked to *MyBinder.org*.
