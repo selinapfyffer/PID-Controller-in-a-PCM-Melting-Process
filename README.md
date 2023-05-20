@@ -1,4 +1,4 @@
-# Dynamic Model of the Melting Process of a Cell filled with Phase Change Material (PCM)
+# Dynamic Model of the Melting Process of a Cell filled with Phase Change Material (PCM) with an integrated PID_controller
 In order to master the energy transition in the future, traditional fossil fuels for heating buildings must be largely replaced. 
 The latest research from ETH Zurich shows that half of Switzerland's electricity imports in winter could be covered by seasonal thermal energy storage. Phase change materials (PCM) are very well suited for a energy storage system. Compared to a conventional water storage tank, a storage tank filled with PCM has a three times higher energy density.
 
